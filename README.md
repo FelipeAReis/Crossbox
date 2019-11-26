@@ -1,6 +1,6 @@
-# iftcross
+# CrossBox
 
-A new Flutter project.
+Projeto feito em Flutter
 
 ## Getting Started
 
