@@ -1,5 +1,5 @@
-name: iftcross
-description: A new Flutter project.
+name: CrossBox
+description: Aplicativo para gerenciamento de crossfits e academias.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43

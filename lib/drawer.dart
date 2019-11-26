@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:iftcross/champions_icons.dart';
-import 'package:iftcross/sidemenu/campeonatos.dart';
-import 'package:iftcross/sidemenu/checkin.dart';
-import 'package:iftcross/sidemenu/configuracoes.dart';
-import 'package:iftcross/sidemenu/desafios.dart';
-import 'package:iftcross/sidemenu/financeiro.dart';
-import 'package:iftcross/sidemenu/personalRecords.dart';
-import 'package:iftcross/sidemenu/timeline.dart';
-import 'package:iftcross/sidemenu/wods.dart';
+import 'package:CrossBox/champions_icons.dart';
+import 'package:CrossBox/sidemenu/campeonatos.dart';
+import 'package:CrossBox/sidemenu/checkin.dart';
+import 'package:CrossBox/sidemenu/configuracoes.dart';
+import 'package:CrossBox/sidemenu/desafios.dart';
+import 'package:CrossBox/sidemenu/financeiro.dart';
+import 'package:CrossBox/sidemenu/personalRecords.dart';
+import 'package:CrossBox/sidemenu/timeline.dart';
+import 'package:CrossBox/sidemenu/wods.dart';
 
 
 class NovoDrawer extends StatefulWidget {

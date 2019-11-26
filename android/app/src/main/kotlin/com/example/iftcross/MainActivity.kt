@@ -1,4 +1,4 @@
-package com.example.iftcross
+package com.example.CrossBox
 
 import android.os.Bundle
 
