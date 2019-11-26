@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:iftcross/tabs/checkin.dart';
-import 'package:iftcross/tabs/desafios/ativos.dart';
-import 'package:iftcross/tabs/desafios/proximosDesafios.dart';
-import 'package:iftcross/tabs/wod.dart';
+import 'package:CrossBox/tabs/checkin.dart';
+import 'package:CrossBox/tabs/desafios/ativos.dart';
+import 'package:CrossBox/tabs/desafios/proximosDesafios.dart';
+import 'package:CrossBox/tabs/wod.dart';
 
 
 
