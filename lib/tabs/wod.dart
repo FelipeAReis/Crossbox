@@ -33,8 +33,8 @@ class Wod extends StatelessWidget {
      
         <hr>
         <p> Cap 14'</p>
-        <span>200 D.u/400 S.U</span>
-        <span>1,6 Km Run</span>
+        <span> 200 D.u/400 S.U</span>
+        <span> 1,6 Km Run</span>
 
          """));
   }
