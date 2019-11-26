@@ -34,7 +34,9 @@ Padding(
                   trailing: Column(
                     children: <Widget>[
 
-                                  Text("Crossfit")
+                                  Text("Crossfit",style: TextStyle(fontWeight: FontWeight.bold) ,),
+                                   Text("12"),
+                                    Text("Vagas")
                                   
                               ],
                             ), 
