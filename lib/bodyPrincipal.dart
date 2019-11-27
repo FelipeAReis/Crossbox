@@ -257,6 +257,7 @@ class _BodyPrincipalState extends State<BodyPrincipal> with TickerProviderStateM
           child: Container(
             padding: EdgeInsets.fromLTRB(10,15, 10, 0),
             child: Column(
+             
               children: <Widget>[
                             Row(
                             mainAxisAlignment: MainAxisAlignment.start,
@@ -270,8 +271,14 @@ class _BodyPrincipalState extends State<BodyPrincipal> with TickerProviderStateM
                             ),
                             ),
                             ],
-                          ), 
+                          ),
                           Container(
+                                 
+                                  height: 5,
+                                  //color: Colors.red,
+                              ),
+                          Container(
+                                 
                                   height: 2,
                                   color: Colors.red,
                               ),
@@ -282,7 +289,8 @@ class _BodyPrincipalState extends State<BodyPrincipal> with TickerProviderStateM
                               ),
 
               ],
-
+            
+            
             ),
 
 
