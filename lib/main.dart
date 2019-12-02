@@ -1,6 +1,6 @@
+
+import 'package:CrossBox/login/login.dart';
 import 'package:flutter/material.dart';
-import 'package:CrossBox/bodyPrincipal.dart';
-import 'drawer.dart';
 
 class AppBarMain extends StatelessWidget {
   @override
@@ -23,37 +23,8 @@ void main(){
       primarySwatch: Colors.red
       ),
     
-    home: 
-      Scaffold(
-        
-        endDrawer: NovoDrawer(),
-        appBar: AppBar(
-            automaticallyImplyLeading: false,
-            title: Row(
-                children: 
-                  <Widget>
-                  [Image.asset("assets/logo_crossbox.png", 
-                    fit: BoxFit.scaleDown,
-                    height: 32,
-                    ),
-                    Padding(
-                      padding: EdgeInsets.fromLTRB(15, 0, 0, 0),
-                      child: Text("CrossBox",
-                      overflow: TextOverflow.fade,
-                      maxLines: 1,
-                      ),
-                    ),
-                ]
-              ,
-              ), 
-              //final title
-          ),
-
-          body: SingleChildScrollView( child: BodyPrincipal(),) 
-
-        ),
-
-
+    home: LoginPage()  
+    
     ),
   );
 
